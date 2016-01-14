@@ -4,4 +4,4 @@ repo exercise
 
 Hello my name is Lisa and this is my repository
 
-My course partner is TNguyen
+My course partner is Thuy Nguyen
